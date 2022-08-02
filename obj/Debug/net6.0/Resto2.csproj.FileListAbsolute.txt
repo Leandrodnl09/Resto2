@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\bin\Debug\net6.0\Resto2.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\bin\Debug\net6.0\Resto2.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\bin\Debug\net6.0\Resto2.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\bin\Debug\net6.0\Resto2.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\bin\Debug\net6.0\Resto2.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\refint\Resto2.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\Resto2.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Resto2\obj\Debug\net6.0\ref\Resto2.dll
